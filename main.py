@@ -24,3 +24,6 @@ print(
     f"{article_upvotes[max_points_index]} points, "
     f"available at: {article_links[max_points_index]}."
 )
+
+
+# https://news.ycombinator.com/robots.txt
